@@ -1,0 +1,9 @@
+[
+  {
+        "template": "FactureEauSchemaV0",
+        "name": "Test sandbox - Facture eau fond gire",
+        "description": "Facture eau gire",
+        "source": "jxt",
+        "env": "test"
+  }
+]

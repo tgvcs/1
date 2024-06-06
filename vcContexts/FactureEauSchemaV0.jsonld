@@ -5,8 +5,8 @@
         "id": "@id",
         "type": "@type",
         "schema": "https://schema.org/",
-        "FactureEauSchemaV0": {
-            "@id": "schema:FactureEauSchemaV0",
+        "FactureEauGireSchemaV0": {
+            "@id": "schema:FactureEauGireSchemaV0",
             "@context": {
                 "@version": 1.1,
                 "@protected": true,
